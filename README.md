@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Next.js, Typescript **
+- 💬 Ask me about **React, Next.js, Typescript**
 
 - 📫 How to reach me **edirisinghe.nimesha@gmail.com**
 
