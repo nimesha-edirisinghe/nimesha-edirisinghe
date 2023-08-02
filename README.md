@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nimeshaedi" target="blank"><img src="https://img.shields.io/twitter/follow/nimeshaedi?logo=twitter&style=for-the-badge" alt="nimeshaedi" /></a> </p>
 
-- 🔭 I’m currently working on **Enterprise Planning Suite**
+- 🔭 I’m currently working on **Order Right:Turbo-charged Al-Infused Forecasting Product**
 
-- 🌱 I’m currently learning **Flutter, Angular**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Reactjs, Javascript**
+- 💬 Ask me about **React, Next.js, Typescript **
 
 - 📫 How to reach me **edirisinghe.nimesha@gmail.com**
 
